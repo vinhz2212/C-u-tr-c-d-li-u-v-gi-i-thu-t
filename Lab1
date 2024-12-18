@@ -55,9 +55,9 @@ public class Lab_01 {
         Scanner scanner = new Scanner(System.in);
 
         
-        System.out.print("Nháº­p x: ");
+        System.out.print("Nhap x: ");
         double x = scanner.nextDouble();
-        System.out.print("Nháº­p n: ");
+        System.out.print("Nhap n: ");
         int n = scanner.nextInt();
 
        
